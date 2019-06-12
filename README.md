@@ -1,8 +1,8 @@
 i
 
-# My awsome Rest Api
+# My awesome REST API
 
-##Installation
+## Installation
 '''
 pip install Flask
 python app.py
